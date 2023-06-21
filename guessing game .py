@@ -1,7 +1,7 @@
 import time
 import random
 import os 
-secret_number=random.randint(1,9)
+secret_number=random.randint(1,10)
 i=0
 while i<3:
     Your_gues=int(input("Enter a number betwine 1 and 10 : "))
